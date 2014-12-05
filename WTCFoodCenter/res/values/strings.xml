@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WTC Food Center</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sdok">Berbagai pilihan menu kuliner disediakan  di Food Court yang berada di lantai 4 WTC ini. Mulai dari menu kuliner nusantara sampai menu mancanegara tersedia di sini. Seperti, nasi timbel lele goreng, sop tulang, soto bening, nila cabe hijau,nasi ayam woku, shibuya rame, nasi hainan, cheese burger dan lain-lain.\n\n</string>
+    <string name="title_activity_activitysendokgarpu">Activity sendok garpu</string>
+    <string name="title_activity_activity_sendok_garpu">Sendok Garpu</string>
+    <string name="ttgsdk">Sendok Garpu \n     
+Kehadiran Food Court Sendok Garpu tentunya menambah referensi pilihan tempat kuliner di Mall WTC Batanghari Jambi. Food Court yang terletak di lantai 4 ini, tak sekedar menghadirkan menu yang dapat memanjakan lidah, namun juga mencoba memberikan layanan lebih untuk memanjakan konsumennya.\n\n
+Berbagai pilihan menu kuliner disediakan  di Food Court yang berada di lantai 4 WTC ini. Mulai dari menu kuliner nusantara sampai menu mancanegara tersedia di sini. Seperti, nasi timbel lele goreng, sop tulang, soto bening, nila cabe hijau,nasi ayam woku, shibuya rame, nasi hainan, cheese burger dan lain-lain.\n\n
+Sendok Garpu juga lebih terkesan modern, selain tersedia wi-fi, lounge,dan memiliki lantai 2 yang viewnya langsung ke Sungai Batangari dibuka mulai dari jam 10.00 hingga 23.00 ini. \n\n</string>
+    <string name="title_activity_coffetime">Coffe Time</string>
+    <string name="ttgcf">Coffe Time \n
+Coffe Time cocok untuk  bersantai bersama teman-teman, keluarga, kolega kerja dan juga pasangan anda. Dengan menikmati salah satu menu sajian dari kafe ini, anda dapat merasakan kenyamanan bersantai juga dari pelayanan kafe ini yang ramah terhadap pelanggan. \n\n
+Kafe ini juga menyediakan fasilitas Wifi secara gratis sehingga pengunjung dapat menikmati layanan internet dengan mudah. \n\nLokasi Coffe Time di WTC Batanghari  \n
+Lantai 4 dekat Cinema 21
+
+</string>
+    <string name="title_activity_dapur_iga">Dapur Iga</string>
+    <string name="ttgdp">Tentang Dapur Iga \n
+Dapur Iga merupakan salah satu usaha waralaba asal Kota Kembang, Bandung. Khusus untuk outlet Jambi yang berdiri di lantai 3 Mal WTC Batanghari, merupakan outlet ke 15 dari total 16 outlet yang telah hadir dan menyebar di kota-kota besar di Indonesia. \n\n
+Dapur iga menyajikan menu nusantara yang siap menggoyang lidah anda, dengan ciri khas iga bakar yang dimasak oleh chef-chef yang mumpuni.  Anda dapat merasakan kepuasan tersendiri dalam menikmati hidangan masakan kami.\n\n
+Lokasi Dapur Iga di WTC Batanghari  \n
+Lantai 3
+
+     
+    </string>
+	
+</resources>
